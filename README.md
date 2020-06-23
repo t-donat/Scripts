@@ -15,4 +15,4 @@ Python Kivy calculator app
 
 Here's the interface:
 
-![calculator interface](calculator/GUI.png?raw=true)
+![calculator interface](calculator/GUI.png?raw=true | width=200)

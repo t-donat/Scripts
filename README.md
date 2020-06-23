@@ -9,3 +9,9 @@ Python tkinter GUI:
 When the app is closed, the file directories are saved to a .txt file and loaded back in the next time it is opened.
 
 TODO: 'Remove' Individual Apps
+
+## `calculator.py`
+Python Kivy calculator app
+Here's the interface:
+
+![calculator interface](https://github.com/t-donat/Scrips/calculator/GUI.png?raw=true)

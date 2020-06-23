@@ -12,6 +12,7 @@ TODO: 'Remove' Individual Apps
 
 ## `calculator.py`
 Python Kivy calculator app
+
 Here's the interface:
 
-![calculator interface](https://github.com/t-donat/Scrips/calculator/GUI.png?raw=true)
+![calculator interface](https://github.com/t-donat/Scripts/tree/master/calculator/GUI.png?raw=true)
